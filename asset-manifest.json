@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-Cart-React-App/static/css/main.1fbbf1f0.css",
+    "main.js": "/E-Cart-React-App/static/js/main.98c90142.js",
+    "static/js/453.3f4de247.chunk.js": "/E-Cart-React-App/static/js/453.3f4de247.chunk.js",
+    "static/media/schoolbuilding.jpg": "/E-Cart-React-App/static/media/schoolbuilding.70bc789ba98154495a71.jpg",
+    "index.html": "/E-Cart-React-App/index.html",
+    "main.1fbbf1f0.css.map": "/E-Cart-React-App/static/css/main.1fbbf1f0.css.map",
+    "main.98c90142.js.map": "/E-Cart-React-App/static/js/main.98c90142.js.map",
+    "453.3f4de247.chunk.js.map": "/E-Cart-React-App/static/js/453.3f4de247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbbf1f0.css",
+    "static/js/main.98c90142.js"
+  ]
+}
