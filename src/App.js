@@ -19,6 +19,10 @@ import Checkout from './AllRoutes/Cart/Checkout'
 function App() {
   const token = commonservices.getItem("Token");
   const is_logged = token ? true : false;
+
+  console.log('====================================');
+  console.log('prakash 6-4-24');
+  console.log('====================================');
   
 
   const allRoute = () => {
